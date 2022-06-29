@@ -1,0 +1,12 @@
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: "UA-233254563-1"
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+  - { icon: "github", link: "https://www.github.com/cloudfwd" }
+  - { icon: "linkedin", link: "https://www.linkedin.com/company/cloudfwd" }
+  - { icon: "envelope", link: "mailto:contact@cloudforward.co" }
+
+# Customize site text
+title: "CloudForward Co | Cloud solutions for your business "
+header: "cloudfwd  Co"
