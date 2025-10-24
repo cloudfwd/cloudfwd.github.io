@@ -4,7 +4,7 @@ email: webmaster@cloudforward.co
 description: >- # this means to ignore newlines until "baseurl:"
   cloudforward.co landing
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: https://cloudforward.co
+url: https://cloudforward.ca
 github_username: cloudfwd
 author: icheft
 
